@@ -1,7 +1,7 @@
 ---
 key: profile
-title: I am John Doe
-subtitle: Graphic Designer
+title: I am Stefan Dimitrijevic
+subtitle: Front-end Student
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut
   doloremque ratione perferendis possimus voluptatibus distinctio autem
   expedita qui unde modi impedit officia illum praesentium amet, vero
