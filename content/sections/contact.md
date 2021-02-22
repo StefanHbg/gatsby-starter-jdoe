@@ -1,7 +1,7 @@
 ---
 key: contact
 title: Contact me
-subtitle: I am looking forward to hearing from you
+subtitle: What's on your mind?
 socialLinks:
   - label: Facebook
     url: https://facebook.com
@@ -12,14 +12,14 @@ socialLinks:
   - label: WhatsApp
     url: https://api.whatsapp.com/send?phone=55
   - label: Email
-    url: mailto:hi@example.com
+    url: mailto:mr_x_denlille@hotmail.com
 placeholder:
   name: Name
   subject: Subject
   email: Email
   message: Message
 status:
-  success: Success! Thank you for contacting...
+  success: Thank you for contacting me
   error: Sorry, we could not reach our servers. Please try again later...
 buttonLabel: Send message
 ---
