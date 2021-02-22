@@ -1,7 +1,7 @@
 ---
 key: contact
 title: Contact me
-subtitle: Realize your dreans with us
+subtitle: I am looking forward to hearing from you
 socialLinks:
   - label: Facebook
     url: https://facebook.com
